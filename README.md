@@ -1,6 +1,6 @@
 # Olá, eu sou a Bianca Martins 👋
 
-Sou estudante/desenvolvedora em formação, com interesse em desenvolvimento de sistemas, aplicações web, banco de dados e criação de interfaces.
+Sou estudante/desenvolvedora em formação pelo curso de Sistemas de Informação e estou no 5º período, possuo interesse em desenvolvimento de sistemas, aplicações web, banco de dados e criação de interfaces.
 
 Atualmente estou desenvolvendo projetos acadêmicos e práticos utilizando tecnologias como Java, TypeScript, Node.js, Jakarta EE, C#, .NET, WPF, PostgreSQL, Git e GitHub.
 
