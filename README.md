@@ -23,6 +23,32 @@ Atualmente estou desenvolvendo projetos acadêmicos e práticos utilizando tecno
 
 ## Projetos em destaque
 
+### AmazoTrack
+
+Sistema/API desenvolvido para gerenciamento e monitoramento de resíduos, empresas, movimentações e dados de dashboard.
+
+Funcionalidades principais:
+
+- Cadastro e gerenciamento de empresas
+- Cadastro e controle de resíduos
+- Registro de movimentações
+- Rotas de autenticação
+- Dashboard com resumo de dados
+- Validações com Zod
+- Integração com banco de dados
+- Organização de controllers, rotas e regras de negócio
+
+Tecnologias utilizadas:
+
+- Node.js
+- TypeScript
+- Express
+- Prisma
+- PostgreSQL
+- Zod
+- Swagger
+- Git e GitHub
+
 ### Katu
 
 Sistema desktop desenvolvido em WPF com .NET 8, focado em gestão de estoque e ponto de vendas.
