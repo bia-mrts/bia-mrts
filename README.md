@@ -2,7 +2,7 @@
 
 Sou estudante/desenvolvedora em formação pelo curso de Sistemas de Informação e estou no 6º período, possuo interesse em desenvolvimento de sistemas, aplicações web, banco de dados e criação de interfaces.
 
-Atualmente estou desenvolvendo projetos acadêmicos e práticos utilizando tecnologias como Java, TypeScript, Node.js, Jakarta EE, C#, .NET, WPF, PostgreSQL, Git e GitHub.
+Atualmente estou desenvolvendo projetos acadêmicos e práticos utilizando tecnologias como Java, PHP, HTML, CSS, TypeScript, Node.js, Jakarta EE, C#, .NET, WPF, SQL, Git e GitHub.
 
 ## Tecnologias que estou estudando e utilizando
 
@@ -17,7 +17,7 @@ Atualmente estou desenvolvendo projetos acadêmicos e práticos utilizando tecno
 - HTML e CSS
 - Git e GitHub
 - Node.js
-- PLSQL (Oracle)
+- SQL
 - Dbeaver
 - Postman
 - PHP
